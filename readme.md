@@ -25,7 +25,7 @@ An interactive Power BI dashboard that:
 - Excel for data sources
 
 ## Model view
-[Model relationship](Model_relationships.png)
+![Model relationship](Model_relationships.png)
 ## Dashboard Link
 [View Brew Heaven Analytics Dashboard]()
 
