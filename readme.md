@@ -27,7 +27,13 @@ An interactive Power BI dashboard that:
 ## Model view
 ![Model relationship](Model_relationships.png)
 ## Dashboard Link
-[View Brew Heaven Analytics Dashboard]()
+[View Brew Heaven Analytics Dashboard](https://app.powerbi.com/groups/me/reports/4d20f0a5-c994-489a-87b6-cdfdc58a4cf1/a373679cb2abc12c94b6?experience=power-bi)
+
+The sales page - 
+![sales page view](Sales_report.png)
+
+The management page - 
+![Management page view](Management_report.png)
 
 
 
